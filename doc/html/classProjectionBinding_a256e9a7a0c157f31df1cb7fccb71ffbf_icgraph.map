@@ -1,0 +1,6 @@
+<map id="ProjectionBinding::BindingEntireProjection" name="ProjectionBinding::BindingEntireProjection">
+<area shape="rect" id="node2" href="$classLogicalCSBIndexBuilding.html#a38c6c55beb979a42d2dcb594f3cff5eb" title="LogicalCSBIndexBuilding\l::GetPlanContext" alt="" coords="219,5,389,46"/>
+<area shape="rect" id="node3" href="$classLogicalIndexScan.html#a804357b680cb6309a5c9dc0bc3e50539" title="LogicalIndexScan::GetPlan\lContext" alt="" coords="214,70,394,111"/>
+<area shape="rect" id="node4" href="$classclaims_1_1logical__query__plan_1_1LogicalScan.html#ad5a029bd18cacd363057b7083216306f" title="It can generate many projection. We need the smallest cost of projections, so we should choose the be..." alt="" coords="211,136,397,192"/>
+<area shape="rect" id="node5" href="$classclaims_1_1logical__query__plan_1_1LogicalScan.html#a8060c9c2f4e3cf4b80c3f899bf616899" title="claims::logical_query\l_plan::LogicalScan::GetOptimal\lPhysicalPlan" alt="" coords="446,136,653,192"/>
+</map>

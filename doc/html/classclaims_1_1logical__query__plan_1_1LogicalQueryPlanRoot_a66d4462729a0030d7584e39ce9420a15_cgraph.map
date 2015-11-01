@@ -1,0 +1,6 @@
+<map id="claims::logical_query_plan::LogicalQueryPlanRoot::GetOptimalPhysicalPlan" name="claims::logical_query_plan::LogicalQueryPlanRoot::GetOptimalPhysicalPlan">
+<area shape="rect" id="node2" href="$classclaims_1_1logical__query__plan_1_1PlanContext.html#ae0ff21761d28abad9e602d0b70b3f36f" title="claims::logical_query\l_plan::PlanContext::GetAggregated\lDatasize" alt="" coords="246,5,474,61"/>
+<area shape="rect" id="node3" href="$classclaims_1_1logical__query__plan_1_1LogicalOperator.html#a9acebc48e86bbb81ac63c23f4aa96d26" title="claims::logical_query\l_plan::LogicalOperator\l::GetOptimalPhysicalPlan" alt="" coords="274,85,446,141"/>
+<area shape="rect" id="node4" href="$classclaims_1_1logical__query__plan_1_1Requirement.html#a9f9a819dfc4d060b32f2d29017f0085a" title="claims::logical_query\l_plan::Requirement::require\lNetworkTransfer" alt="" coords="269,165,451,221"/>
+<area shape="rect" id="node5" href="$classclaims_1_1logical__query__plan_1_1Requirement.html#ad05d43ba2ea60cfb58a23f71b6e630cc" title="claims::logical_query\l_plan::Requirement::tryMerge" alt="" coords="263,246,457,287"/>
+</map>

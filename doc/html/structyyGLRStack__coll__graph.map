@@ -1,0 +1,8 @@
+<map id="yyGLRStack" name="yyGLRStack">
+<area shape="rect" id="node2" href="$unionYYSTYPE.html" title="YYSTYPE" alt="" coords="157,109,240,136"/>
+<area shape="rect" id="node7" href="$structyyGLRState.html" title="yyGLRState" alt="" coords="157,213,251,240"/>
+<area shape="rect" id="node8" href="$structyySemanticOption.html" title="yySemanticOption" alt="" coords="323,333,452,360"/>
+<area shape="rect" id="node3" href="$structNode.html" title="Node" alt="" coords="83,5,136,32"/>
+<area shape="rect" id="node6" href="$structyyGLRStateSet.html" title="yyGLRStateSet" alt="" coords="25,385,140,412"/>
+<area shape="rect" id="node10" href="$unionyyGLRStackItem.html" title="yyGLRStackItem" alt="" coords="215,437,337,464"/>
+</map>

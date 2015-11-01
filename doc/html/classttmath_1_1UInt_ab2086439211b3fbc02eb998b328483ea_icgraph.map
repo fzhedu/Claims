@@ -1,0 +1,29 @@
+<map id="ttmath::UInt::SetZero" name="ttmath::UInt::SetZero">
+<area shape="rect" id="node2" href="$classttmath_1_1Int.html#a1459d8f91899c87e26a59ccbf9ed3f00" title="ttmath::Int::ChangeSign" alt="" coords="434,176,595,203"/>
+<area shape="rect" id="node12" href="$classttmath_1_1UInt.html#a60e97560d5f03d2321130a33fd24c74c" title="ttmath::UInt::ClearFirstBits" alt="" coords="202,581,382,608"/>
+<area shape="rect" id="node13" href="$classttmath_1_1UInt.html#acad855eb4debd1fba0a49336849df210" title="ttmath::UInt::Div2" alt="" coords="451,277,578,304"/>
+<area shape="rect" id="node15" href="$classttmath_1_1UInt.html#aadcfa312adce5e4c9f59eb7bb67ee925" title="ttmath::UInt::DivInt" alt="" coords="225,379,359,405"/>
+<area shape="rect" id="node17" href="$classttmath_1_1UInt.html#a9d427ec739abdc4e1a8354f19d87e022" title="ttmath::UInt::Mul1" alt="" coords="228,480,356,507"/>
+<area shape="rect" id="node22" href="$classttmath_1_1UInt.html#a9147e767c1f90666a21c581343854c7a" title="ttmath::UInt::MulFastestBig" alt="" coords="200,531,384,557"/>
+<area shape="rect" id="node24" href="$classttmath_1_1UInt.html#a47b57350163b4dc79e480995fc044ad7" title="ttmath::UInt::MulInt" alt="" coords="224,632,360,659"/>
+<area shape="rect" id="node25" href="$classttmath_1_1Int.html#a0bc5aa68e8e8eb44085d2c1ff98aad82" title="ttmath::Int::SetMin" alt="" coords="227,227,357,253"/>
+<area shape="rect" id="node26" href="$classttmath_1_1UInt.html#a2e1bc8030ecd0fbfefcee702b8887660" title="ttmath::UInt::SetMin" alt="" coords="221,683,363,709"/>
+<area shape="rect" id="node27" href="$classttmath_1_1UInt.html#aa857e4036b8a726c70c51ff088080acb" title="ttmath::UInt::SetOne" alt="" coords="672,429,816,456"/>
+<area shape="rect" id="node28" href="$classttmath_1_1UInt.html#af3235637450aac9a4b0f9e05ce69f386" title="ttmath::UInt::Sqrt" alt="" coords="230,733,354,760"/>
+<area shape="rect" id="node3" href="$classttmath_1_1Int.html#aeb74289f960343a11bf25a9b510fd99d" title="ttmath::Int::Abs" alt="" coords="687,277,801,304"/>
+<area shape="rect" id="node8" href="$classdecimal_1_1NValue.html#a8ce01d5de4cbcd5b2db941dbf28ee0cd" title="decimal::NValue::createString\lFromDecimal" alt="" coords="646,5,842,46"/>
+<area shape="rect" id="node9" href="$classttmath_1_1Int.html#ae44a05e6b51a6c6f6ba70de5074e3795" title="ttmath::Int::operator&#45;" alt="" coords="673,71,815,97"/>
+<area shape="rect" id="node5" href="$classttmath_1_1Int.html#a6e523cc29589e77186b02236aa3538de" title="ttmath::Int::Pow" alt="" coords="1150,289,1266,316"/>
+<area shape="rect" id="node10" href="$classttmath_1_1Int.html#a9b660237a184333e26bdcb933923658a" title="ttmath::Int::SetSign" alt="" coords="676,176,812,203"/>
+<area shape="rect" id="node4" href="$classttmath_1_1Int.html#a2bc659d2f8aa94cf17ee5650d06119f2" title="ttmath::Int::Div" alt="" coords="941,289,1051,316"/>
+<area shape="rect" id="node6" href="$classttmath_1_1Int.html#a6d81ced6d4f5183287a316a9d45d3198" title="ttmath::Int::DivInt" alt="" coords="933,340,1059,367"/>
+<area shape="rect" id="node7" href="$classttmath_1_1Int.html#ae28324f4f8a73446301bdd5e27749755" title="ttmath::Int::Mul" alt="" coords="941,239,1051,265"/>
+<area shape="rect" id="node11" href="$classdecimal_1_1NValue.html#ab589b84a33cba9dfabdf22c9644c9705" title="decimal::NValue::createDecimal\lFromString" alt="" coords="891,173,1101,214"/>
+<area shape="rect" id="node14" href="$classttmath_1_1UInt.html#a66ed2921ae082f9694afb330ec67d05d" title="ttmath::UInt::Div" alt="" coords="684,328,804,355"/>
+<area shape="rect" id="node16" href="$classttmath_1_1UInt.html#afff0de3978204eb1e78bec6e8ac037d0" title="ttmath::UInt::Div3" alt="" coords="451,328,578,355"/>
+<area shape="rect" id="node18" href="$classttmath_1_1UInt.html#aa4963e5c44942adf38731307f34287dd" title="ttmath::UInt::Mul" alt="" coords="683,531,805,557"/>
+<area shape="rect" id="node20" href="$classttmath_1_1UInt.html#a3da327dfd6e59621497c735ababb392e" title="ttmath::UInt::Mul1Big" alt="" coords="441,480,588,507"/>
+<area shape="rect" id="node19" href="$classttmath_1_1UInt.html#afdbaf5bd46ab8035c1d6983c761302d2" title="ttmath::UInt::Pow" alt="" coords="933,504,1059,531"/>
+<area shape="rect" id="node21" href="$classttmath_1_1UInt.html#ac655c4d3a5ec23052292ccf3a058a6f1" title="ttmath::UInt::MulBig" alt="" coords="674,480,814,507"/>
+<area shape="rect" id="node23" href="$classttmath_1_1UInt.html#adaa67dddec10cd14617a7402e6a0bb26" title="ttmath::UInt::MulFastest" alt="" coords="432,632,597,659"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="claims::logical_query_plan::LogicalScan::GetOptimalPhysicalPlan" name="claims::logical_query_plan::LogicalScan::GetOptimalPhysicalPlan">
+<area shape="rect" id="node2" href="$classclaims_1_1logical__query__plan_1_1PlanContext.html#ae0ff21761d28abad9e602d0b70b3f36f" title="claims::logical_query\l_plan::PlanContext::GetAggregated\lDatasize" alt="" coords="262,5,490,61"/>
+<area shape="rect" id="node3" href="$classclaims_1_1logical__query__plan_1_1LogicalScan.html#ad5a029bd18cacd363057b7083216306f" title="It can generate many projection. We need the smallest cost of projections, so we should choose the be..." alt="" coords="283,85,469,141"/>
+<area shape="rect" id="node6" href="$classclaims_1_1logical__query__plan_1_1Requirement.html#a9f9a819dfc4d060b32f2d29017f0085a" title="claims::logical_query\l_plan::Requirement::require\lNetworkTransfer" alt="" coords="285,165,467,221"/>
+<area shape="rect" id="node4" href="$classProjectionDescriptor.html#a8a664135e20ca7d53183f02cfbe19982" title="Method description: " alt="" coords="547,61,687,102"/>
+<area shape="rect" id="node5" href="$classProjectionBinding.html#a256e9a7a0c157f31df1cb7fccb71ffbf" title="ProjectionBinding::\lBindingEntireProjection" alt="" coords="539,126,696,167"/>
+</map>
