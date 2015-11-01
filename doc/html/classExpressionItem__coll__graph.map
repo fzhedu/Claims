@@ -1,0 +1,10 @@
+<map id="ExpressionItem" name="ExpressionItem">
+<area shape="rect" id="node2" href="$structexpress__operator.html" title="express_operator" alt="" coords="25,163,148,189"/>
+<area shape="rect" id="node6" href="$classttmath_1_1UInt.html" title="UInt implements a big integer value without a sign. " alt="" coords="134,97,268,138"/>
+<area shape="rect" id="node11" href="$structdata____.html" title="data__" alt="" coords="540,104,601,131"/>
+<area shape="rect" id="node4" href="$classdecimal_1_1NValue.html" title="decimal::NValue" alt="" coords="246,349,364,376"/>
+<area shape="rect" id="node5" href="$classttmath_1_1Int.html" title="Int implements a big integer value with a sign. " alt="" coords="116,214,241,255"/>
+<area shape="rect" id="node13" href="$structvariable.html" title="variable" alt="" coords="408,349,475,376"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="539,349,619,376"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="495,214,621,255"/>
+</map>

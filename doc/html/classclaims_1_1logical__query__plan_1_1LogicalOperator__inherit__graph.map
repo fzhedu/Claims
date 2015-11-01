@@ -1,0 +1,12 @@
+<map id="claims::logical_query_plan::LogicalOperator" name="claims::logical_query_plan::LogicalOperator">
+<area shape="rect" id="node2" href="$classclaims_1_1logical__query__plan_1_1LogicalAggregation.html" title="class description: maintain operator property that results from executing aggregation operator..." alt="" coords="216,5,387,46"/>
+<area shape="rect" id="node3" href="$classclaims_1_1logical__query__plan_1_1LogicalCrossJoin.html" title="claims::logical_query\l_plan::LogicalCrossJoin" alt="" coords="221,70,382,111"/>
+<area shape="rect" id="node4" href="$classclaims_1_1logical__query__plan_1_1LogicalEqualJoin.html" title="Generate equal join logical plan. " alt="" coords="222,135,381,177"/>
+<area shape="rect" id="node5" href="$classclaims_1_1logical__query__plan_1_1LogicalFilter.html" title="Method description: Logical Operator &quot;filter&quot;, is used to screen out the info we don&#39;t need..." alt="" coords="229,201,373,242"/>
+<area shape="rect" id="node6" href="$classclaims_1_1logical__query__plan_1_1LogicalProject.html" title="claims::logical_query\l_plan::LogicalProject" alt="" coords="229,266,373,307"/>
+<area shape="rect" id="node7" href="$classclaims_1_1logical__query__plan_1_1LogicalQueryPlanRoot.html" title="claims::logical_query\l_plan::LogicalQueryPlanRoot" alt="" coords="206,331,397,373"/>
+<area shape="rect" id="node8" href="$classclaims_1_1logical__query__plan_1_1LogicalScan.html" title="Method description:This is the implementation of Scan operator in logical layer. Currently, we only choose the third of constructor functions. Through the method of LogicalScan, we can get data context and a physical operator. " alt="" coords="229,397,373,438"/>
+<area shape="rect" id="node9" href="$classclaims_1_1logical__query__plan_1_1LogicalSort.html" title="The LogicalSort contains the information of attributes to be sorted. And it describe how to generate ..." alt="" coords="229,462,373,503"/>
+<area shape="rect" id="node10" href="$classLogicalCSBIndexBuilding.html" title="LogicalCSBIndexBuilding" alt="" coords="217,528,386,555"/>
+<area shape="rect" id="node11" href="$classLogicalIndexScan.html" title="LogicalIndexScan" alt="" coords="239,579,364,605"/>
+</map>

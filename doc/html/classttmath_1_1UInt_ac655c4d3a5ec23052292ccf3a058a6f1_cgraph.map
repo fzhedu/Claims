@@ -1,0 +1,9 @@
+<map id="ttmath::UInt::MulBig" name="ttmath::UInt::MulBig">
+<area shape="rect" id="node2" href="$classttmath_1_1UInt.html#a3da327dfd6e59621497c735ababb392e" title="ttmath::UInt::Mul1Big" alt="" coords="213,5,360,32"/>
+<area shape="rect" id="node6" href="$classttmath_1_1UInt.html#ae145ad09c7e20a9f5944cdf94ac2b189" title="ttmath::UInt::Mul2Big" alt="" coords="427,56,573,83"/>
+<area shape="rect" id="node7" href="$classttmath_1_1UInt.html#a59c8668cd527298db160079e96a1477a" title="ttmath::UInt::Mul3Big" alt="" coords="427,157,573,184"/>
+<area shape="rect" id="node8" href="$classttmath_1_1UInt.html#a9147e767c1f90666a21c581343854c7a" title="ttmath::UInt::MulFastestBig" alt="" coords="195,107,379,133"/>
+<area shape="rect" id="node3" href="$classttmath_1_1UInt.html#a9d427ec739abdc4e1a8354f19d87e022" title="ttmath::UInt::Mul1" alt="" coords="436,5,564,32"/>
+<area shape="rect" id="node4" href="$classttmath_1_1UInt.html#abbcc02c03802229412f902de309bad7d" title="ttmath::UInt::Rcl" alt="" coords="635,5,755,32"/>
+<area shape="rect" id="node5" href="$classttmath_1_1UInt.html#ab2086439211b3fbc02eb998b328483ea" title="ttmath::UInt::SetZero" alt="" coords="621,81,768,108"/>
+</map>

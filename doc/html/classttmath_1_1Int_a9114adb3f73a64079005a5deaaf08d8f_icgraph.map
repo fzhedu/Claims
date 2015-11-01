@@ -1,0 +1,14 @@
+<map id="ttmath::Int::FromInt" name="ttmath::Int::FromInt">
+<area shape="rect" id="node2" href="$classttmath_1_1Int.html#ab73451d9fcd997f7b9c08880d1c4283a" title="ttmath::Int::Int" alt="" coords="210,100,315,127"/>
+<area shape="rect" id="node3" href="$classttmath_1_1Int.html#a27af0093ced091bcc6d1dae366c1af4d" title="ttmath::Int::operator=" alt="" coords="190,151,335,177"/>
+<area shape="rect" id="node4" href="$classttmath_1_1Int.html#a1459d8f91899c87e26a59ccbf9ed3f00" title="ttmath::Int::ChangeSign" alt="" coords="385,151,546,177"/>
+<area shape="rect" id="node5" href="$classttmath_1_1Int.html#aeb74289f960343a11bf25a9b510fd99d" title="ttmath::Int::Abs" alt="" coords="637,151,750,177"/>
+<area shape="rect" id="node10" href="$classdecimal_1_1NValue.html#a8ce01d5de4cbcd5b2db941dbf28ee0cd" title="decimal::NValue::createString\lFromDecimal" alt="" coords="595,202,791,243"/>
+<area shape="rect" id="node11" href="$classttmath_1_1Int.html#ae44a05e6b51a6c6f6ba70de5074e3795" title="ttmath::Int::operator&#45;" alt="" coords="623,268,764,295"/>
+<area shape="rect" id="node7" href="$classttmath_1_1Int.html#a6e523cc29589e77186b02236aa3538de" title="ttmath::Int::Pow" alt="" coords="1099,92,1215,119"/>
+<area shape="rect" id="node12" href="$classttmath_1_1Int.html#a9b660237a184333e26bdcb933923658a" title="ttmath::Int::SetSign" alt="" coords="625,100,761,127"/>
+<area shape="rect" id="node6" href="$classttmath_1_1Int.html#a2bc659d2f8aa94cf17ee5650d06119f2" title="ttmath::Int::Div" alt="" coords="890,201,1001,228"/>
+<area shape="rect" id="node8" href="$classttmath_1_1Int.html#a6d81ced6d4f5183287a316a9d45d3198" title="ttmath::Int::DivInt" alt="" coords="883,151,1008,177"/>
+<area shape="rect" id="node9" href="$classttmath_1_1Int.html#ae28324f4f8a73446301bdd5e27749755" title="ttmath::Int::Mul" alt="" coords="890,100,1001,127"/>
+<area shape="rect" id="node13" href="$classdecimal_1_1NValue.html#ab589b84a33cba9dfabdf22c9644c9705" title="decimal::NValue::createDecimal\lFromString" alt="" coords="840,34,1051,75"/>
+</map>

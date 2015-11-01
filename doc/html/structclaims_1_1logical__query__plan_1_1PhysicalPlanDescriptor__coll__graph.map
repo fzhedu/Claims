@@ -1,0 +1,10 @@
+<map id="claims::logical_query_plan::PhysicalPlanDescriptor" name="claims::logical_query_plan::PhysicalPlanDescriptor">
+<area shape="rect" id="node2" href="$classBlockStreamIteratorBase.html" title="BlockStreamIteratorBase" alt="" coords="93,411,261,437"/>
+<area shape="rect" id="node3" href="$classclaims_1_1logical__query__plan_1_1PlanContext.html" title="claims::logical_query\l_plan::PlanContext" alt="" coords="285,403,429,445"/>
+<area shape="rect" id="node4" href="$classclaims_1_1logical__query__plan_1_1PlanPartitioner.html" title="claims::logical_query\l_plan::PlanPartitioner" alt="" coords="47,297,193,338"/>
+<area shape="rect" id="node6" href="$structAttribute.html" title="Attribute" alt="" coords="210,205,280,232"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="47,113,127,140"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="5,6,131,47"/>
+<area shape="rect" id="node9" href="$classcolumn__type.html" title="column_type" alt="" coords="173,113,269,140"/>
+<area shape="rect" id="node10" href="$classOperate.html" title="Operate" alt="" coords="155,13,223,40"/>
+</map>

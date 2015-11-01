@@ -1,0 +1,11 @@
+<map id="ttmath::Int::Mul" name="ttmath::Int::Mul">
+<area shape="rect" id="node2" href="$classttmath_1_1Int.html#aeb74289f960343a11bf25a9b510fd99d" title="ttmath::Int::Abs" alt="" coords="177,56,290,83"/>
+<area shape="rect" id="node8" href="$classttmath_1_1Int.html#a83aa9ad2d45d1348f17f726e6694a757" title="ttmath::Int::IsSign" alt="" coords="367,132,494,159"/>
+<area shape="rect" id="node6" href="$classttmath_1_1Int.html#a0bc5aa68e8e8eb44085d2c1ff98aad82" title="ttmath::Int::SetMin" alt="" coords="584,5,715,32"/>
+<area shape="rect" id="node10" href="$classttmath_1_1Int.html#a9b660237a184333e26bdcb933923658a" title="ttmath::Int::SetSign" alt="" coords="165,107,301,133"/>
+<area shape="rect" id="node3" href="$classttmath_1_1Int.html#a1459d8f91899c87e26a59ccbf9ed3f00" title="ttmath::Int::ChangeSign" alt="" coords="350,56,511,83"/>
+<area shape="rect" id="node4" href="$classttmath_1_1Int.html#a27af0093ced091bcc6d1dae366c1af4d" title="ttmath::Int::operator=" alt="" coords="577,107,722,133"/>
+<area shape="rect" id="node7" href="$classttmath_1_1UInt.html#ab2086439211b3fbc02eb998b328483ea" title="ttmath::UInt::SetZero" alt="" coords="787,31,933,57"/>
+<area shape="rect" id="node5" href="$classttmath_1_1Int.html#a9114adb3f73a64079005a5deaaf08d8f" title="ttmath::Int::FromInt" alt="" coords="793,107,927,133"/>
+<area shape="rect" id="node9" href="$classttmath_1_1UInt.html#a6344961336a88c99c04925a513d7076e" title="ttmath::UInt::IsTheHighest\lBitSet" alt="" coords="560,158,739,199"/>
+</map>

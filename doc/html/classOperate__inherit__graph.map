@@ -1,0 +1,14 @@
+<map id="Operate" name="Operate">
+<area shape="rect" id="node2" href="$classOperateBool.html" title="OperateBool" alt="" coords="139,5,234,32"/>
+<area shape="rect" id="node3" href="$classOperateDate.html" title="OperateDate" alt="" coords="139,56,235,83"/>
+<area shape="rect" id="node4" href="$classOperateDatetime.html" title="OperateDatetime" alt="" coords="126,107,247,133"/>
+<area shape="rect" id="node5" href="$classOperateDecimal.html" title="OperateDecimal" alt="" coords="129,157,245,184"/>
+<area shape="rect" id="node6" href="$classOperateDouble.html" title="OperateDouble" alt="" coords="132,208,241,235"/>
+<area shape="rect" id="node7" href="$classOperateFloat.html" title="OperateFloat" alt="" coords="138,259,235,285"/>
+<area shape="rect" id="node8" href="$classOperateInt.html" title="OperateInt" alt="" coords="145,309,228,336"/>
+<area shape="rect" id="node9" href="$classOperateSmallInt.html" title="OperateSmallInt" alt="" coords="129,360,245,387"/>
+<area shape="rect" id="node10" href="$classOperateString.html" title="OperateString" alt="" coords="135,411,238,437"/>
+<area shape="rect" id="node11" href="$classOperateTime.html" title="OperateTime" alt="" coords="138,461,235,488"/>
+<area shape="rect" id="node12" href="$classOperateULong.html" title="OperateULong" alt="" coords="133,512,240,539"/>
+<area shape="rect" id="node13" href="$classOperateUSmallInt.html" title="OperateUSmallInt" alt="" coords="123,563,250,589"/>
+</map>

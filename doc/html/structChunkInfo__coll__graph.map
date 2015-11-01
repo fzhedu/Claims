@@ -1,0 +1,5 @@
+<map id="ChunkInfo" name="ChunkInfo">
+<area shape="rect" id="node2" href="$structChunkID.html" title="ChunkID" alt="" coords="9,277,84,304"/>
+<area shape="rect" id="node3" href="$structPartitionID.html" title="PartitionID" alt="" coords="77,187,160,213"/>
+<area shape="rect" id="node4" href="$structProjectionID.html" title="ProjectionID" alt="" coords="71,96,165,123"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classBlockManager_1_1BlockManagerWorkerActor.html" title="BlockManager::BlockManager\lWorkerActor" alt="" coords="113,5,309,46"/>
+<area shape="rect" id="node3" href="$classBlockManagerMaster_1_1BlockManagerMasterActor.html" title="BlockManagerMaster\l::BlockManagerMasterActor" alt="" coords="119,70,303,111"/>
+<area shape="rect" id="node4" href="$classCoordinator_1_1CoordinateActor.html" title="Coordinator::CoordinateActor" alt="" coords="115,136,306,163"/>
+<area shape="rect" id="node5" href="$classIteratorExecutorSlave_1_1ExecuteIteratorActor.html" title="IteratorExecutorSlave\l::ExecuteIteratorActor" alt="" coords="135,187,286,229"/>
+<area shape="rect" id="node6" href="$classResourceManagerMaster_1_1ResourceManagerMasterActor.html" title="ResourceManagerMaster\l::ResourceManagerMasterActor" alt="" coords="107,253,314,294"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="PartitionFunction" name="PartitionFunction">
+<area shape="rect" id="node2" href="$classBoostHashFunctin.html" title="BoostHashFunctin" alt="" coords="211,5,341,32"/>
+<area shape="rect" id="node3" href="$classGeneralModuloFunction.html" title="GeneralModuloFunction" alt="" coords="197,56,355,83"/>
+<area shape="rect" id="node4" href="$classModuloHashFunction.html" title="ModuloHashFunction" alt="" coords="203,107,349,133"/>
+<area shape="rect" id="node5" href="$classRoundRobinPartitionFunction.html" title="RoundRobinPartitionFunction" alt="" coords="180,157,372,184"/>
+<area shape="rect" id="node6" href="$classUniformRangePartitionFunction.html" title="UniformRangePartitionFunction" alt="" coords="174,208,378,235"/>
+</map>

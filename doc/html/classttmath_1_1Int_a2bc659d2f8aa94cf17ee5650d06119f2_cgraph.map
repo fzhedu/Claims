@@ -1,0 +1,18 @@
+<map id="ttmath::Int::Div" name="ttmath::Int::Div">
+<area shape="rect" id="node2" href="$classttmath_1_1Int.html#aeb74289f960343a11bf25a9b510fd99d" title="ttmath::Int::Abs" alt="" coords="177,109,290,136"/>
+<area shape="rect" id="node10" href="$classttmath_1_1UInt.html#a66ed2921ae082f9694afb330ec67d05d" title="ttmath::UInt::Div" alt="" coords="173,300,293,327"/>
+<area shape="rect" id="node8" href="$classttmath_1_1Int.html#a83aa9ad2d45d1348f17f726e6694a757" title="ttmath::Int::IsSign" alt="" coords="367,161,494,188"/>
+<area shape="rect" id="node17" href="$classttmath_1_1Int.html#a9b660237a184333e26bdcb933923658a" title="ttmath::Int::SetSign" alt="" coords="165,160,301,187"/>
+<area shape="rect" id="node3" href="$classttmath_1_1Int.html#a1459d8f91899c87e26a59ccbf9ed3f00" title="ttmath::Int::ChangeSign" alt="" coords="350,107,511,133"/>
+<area shape="rect" id="node4" href="$classttmath_1_1Int.html#a27af0093ced091bcc6d1dae366c1af4d" title="ttmath::Int::operator=" alt="" coords="587,5,733,32"/>
+<area shape="rect" id="node6" href="$classttmath_1_1Int.html#a0bc5aa68e8e8eb44085d2c1ff98aad82" title="ttmath::Int::SetMin" alt="" coords="595,107,725,133"/>
+<area shape="rect" id="node7" href="$classttmath_1_1UInt.html#ab2086439211b3fbc02eb998b328483ea" title="ttmath::UInt::SetZero" alt="" coords="808,216,955,243"/>
+<area shape="rect" id="node5" href="$classttmath_1_1Int.html#a9114adb3f73a64079005a5deaaf08d8f" title="ttmath::Int::FromInt" alt="" coords="814,5,949,32"/>
+<area shape="rect" id="node9" href="$classttmath_1_1UInt.html#a6344961336a88c99c04925a513d7076e" title="ttmath::UInt::IsTheHighest\lBitSet" alt="" coords="571,158,749,199"/>
+<area shape="rect" id="node11" href="$classttmath_1_1UInt.html#ae71bf44fb6746f7633b2c485bc6ae082" title="ttmath::UInt::Div1" alt="" coords="367,325,494,352"/>
+<area shape="rect" id="node12" href="$classttmath_1_1UInt.html#acad855eb4debd1fba0a49336849df210" title="ttmath::UInt::Div2" alt="" coords="367,275,494,301"/>
+<area shape="rect" id="node15" href="$classttmath_1_1UInt.html#afff0de3978204eb1e78bec6e8ac037d0" title="ttmath::UInt::Div3" alt="" coords="367,376,494,403"/>
+<area shape="rect" id="node13" href="$classttmath_1_1UInt.html#a13611226d4cbac47fcdcf29362584673" title="ttmath::UInt::CmpBiggerEqual" alt="" coords="561,224,759,251"/>
+<area shape="rect" id="node14" href="$classttmath_1_1UInt.html#aeb19e9f7b5028360ea08dd0c6b43be85" title="ttmath::UInt::SetBit" alt="" coords="592,275,728,301"/>
+<area shape="rect" id="node16" href="$classttmath_1_1UInt.html#aadcfa312adce5e4c9f59eb7bb67ee925" title="ttmath::UInt::DivInt" alt="" coords="593,376,727,403"/>
+</map>

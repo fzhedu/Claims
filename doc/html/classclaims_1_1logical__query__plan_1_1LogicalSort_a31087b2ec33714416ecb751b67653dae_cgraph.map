@@ -1,0 +1,6 @@
+<map id="claims::logical_query_plan::LogicalSort::GetPhysicalPlan" name="claims::logical_query_plan::LogicalSort::GetPhysicalPlan">
+<area shape="rect" id="node2" href="$classclaims_1_1logical__query__plan_1_1LogicalSort.html#afe56f8b1d1d4cf3448f8225451e09f28" title="Method description: Get the column number of the given table name and attributes name. " alt="" coords="285,5,472,61"/>
+<area shape="rect" id="node3" href="$classclaims_1_1logical__query__plan_1_1LogicalOperator.html#a06f66bf15487a3e00e6fb64b8930cc19" title="claims::logical_query\l_plan::LogicalOperator\l::GetPhysicalPlan" alt="" coords="303,85,455,141"/>
+<area shape="rect" id="node4" href="$classclaims_1_1logical__query__plan_1_1LogicalSort.html#a315cf12fe5c61c755e1127b9aeb1c17d" title="Method description: Get the schema and child information. " alt="" coords="288,165,469,221"/>
+<area shape="rect" id="node5" href="$classclaims_1_1logical__query__plan_1_1LogicalOperator.html#a59f89f6f150d6e995cf5a4cfb86ad715" title="claims::logical_query\l_plan::LogicalOperator\l::GetPlanContext" alt="" coords="520,165,672,221"/>
+</map>

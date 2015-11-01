@@ -1,0 +1,9 @@
+<map id="PartitionStorage::PartitionReaderItetaor" name="PartitionStorage::PartitionReaderItetaor">
+<area shape="rect" id="node2" href="$classPartitionStorage.html" title="PartitionStorage" alt="" coords="223,355,337,381"/>
+<area shape="rect" id="node4" href="$classChunkStorage.html" title="ChunkStorage" alt="" coords="90,96,195,123"/>
+<area shape="rect" id="node5" href="$structPartitionID.html" title="PartitionID" alt="" coords="403,240,487,267"/>
+<area shape="rect" id="node11" href="$structChunkID.html" title="ChunkID" alt="" coords="445,355,520,381"/>
+<area shape="rect" id="node6" href="$structProjectionID.html" title="ProjectionID" alt="" coords="439,96,533,123"/>
+<area shape="rect" id="node9" href="$classChunkReaderIterator.html" title="ChunkReaderIterator" alt="" coords="359,445,501,472"/>
+<area shape="rect" id="node10" href="$classLock.html" title="Lock" alt="" coords="371,355,421,381"/>
+</map>

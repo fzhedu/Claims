@@ -1,0 +1,9 @@
+<map id="claims::logical_query_plan::PlanContext::GetAggregatedDatasize" name="claims::logical_query_plan::PlanContext::GetAggregatedDatasize">
+<area shape="rect" id="node2" href="$classclaims_1_1logical__query__plan_1_1LogicalScan.html#a8060c9c2f4e3cf4b80c3f899bf616899" title="claims::logical_query\l_plan::LogicalScan::GetOptimal\lPhysicalPlan" alt="" coords="283,5,490,61"/>
+<area shape="rect" id="node3" href="$classclaims_1_1logical__query__plan_1_1LogicalFilter.html#a1cc3f0258aad97ab9c936c61fb5cd561" title="claims::logical_query\l_plan::LogicalFilter\l::GetOptimalPhysicalPlan" alt="" coords="301,85,473,141"/>
+<area shape="rect" id="node4" href="$classclaims_1_1logical__query__plan_1_1LogicalQueryPlanRoot.html#a66d4462729a0030d7584e39ce9420a15" title="Method description: NOT USED NOW !!! get the optimal physical plan. " alt="" coords="291,165,482,221"/>
+<area shape="rect" id="node5" href="$classclaims_1_1logical__query__plan_1_1LogicalCrossJoin.html#ad1685ff390f369147456ca9f32b858c9" title="Method description: return the output of the plan context of the dedicated operator. " alt="" coords="306,245,467,301"/>
+<area shape="rect" id="node7" href="$classclaims_1_1logical__query__plan_1_1LogicalAggregation.html#a135f7bb530336dc5be459dba67c5b731" title="claims::logical_query\l_plan::LogicalAggregation\l::GetPlanContext" alt="" coords="301,325,472,381"/>
+<area shape="rect" id="node6" href="$classclaims_1_1logical__query__plan_1_1LogicalCrossJoin.html#afe986dd82091333efcaf21ee3ce2327b" title="Method description: get the sub physical execution plan of the current local operator. " alt="" coords="543,245,705,301"/>
+<area shape="rect" id="node8" href="$classclaims_1_1logical__query__plan_1_1LogicalAggregation.html#a3ea88195deb50848dcd0f24774eacbf4" title="claims::logical_query\l_plan::LogicalAggregation\l::GetPhysicalPlan" alt="" coords="539,325,709,381"/>
+</map>

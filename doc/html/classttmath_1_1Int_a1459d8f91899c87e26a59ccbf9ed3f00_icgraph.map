@@ -1,0 +1,11 @@
+<map id="ttmath::Int::ChangeSign" name="ttmath::Int::ChangeSign">
+<area shape="rect" id="node2" href="$classttmath_1_1Int.html#aeb74289f960343a11bf25a9b510fd99d" title="ttmath::Int::Abs" alt="" coords="258,151,371,177"/>
+<area shape="rect" id="node7" href="$classdecimal_1_1NValue.html#a8ce01d5de4cbcd5b2db941dbf28ee0cd" title="decimal::NValue::createString\lFromDecimal" alt="" coords="217,202,413,243"/>
+<area shape="rect" id="node8" href="$classttmath_1_1Int.html#ae44a05e6b51a6c6f6ba70de5074e3795" title="ttmath::Int::operator&#45;" alt="" coords="244,268,385,295"/>
+<area shape="rect" id="node4" href="$classttmath_1_1Int.html#a6e523cc29589e77186b02236aa3538de" title="ttmath::Int::Pow" alt="" coords="721,92,837,119"/>
+<area shape="rect" id="node9" href="$classttmath_1_1Int.html#a9b660237a184333e26bdcb933923658a" title="ttmath::Int::SetSign" alt="" coords="247,100,383,127"/>
+<area shape="rect" id="node3" href="$classttmath_1_1Int.html#a2bc659d2f8aa94cf17ee5650d06119f2" title="ttmath::Int::Div" alt="" coords="511,201,622,228"/>
+<area shape="rect" id="node5" href="$classttmath_1_1Int.html#a6d81ced6d4f5183287a316a9d45d3198" title="ttmath::Int::DivInt" alt="" coords="504,151,629,177"/>
+<area shape="rect" id="node6" href="$classttmath_1_1Int.html#ae28324f4f8a73446301bdd5e27749755" title="ttmath::Int::Mul" alt="" coords="511,100,622,127"/>
+<area shape="rect" id="node10" href="$classdecimal_1_1NValue.html#ab589b84a33cba9dfabdf22c9644c9705" title="decimal::NValue::createDecimal\lFromString" alt="" coords="461,34,672,75"/>
+</map>
