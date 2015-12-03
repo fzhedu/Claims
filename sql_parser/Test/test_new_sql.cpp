@@ -34,6 +34,7 @@
 #include "../ast_node/ast_node.h"
 #include "../../logical_operator/logical_query_plan_root.h"
 #include "../../physical_operator/physical_operator_base.h"
+#include "../utility/Timer.h"
 using claims::logical_operator::LogicalQueryPlanRoot;
 using claims::physical_operator::PhysicalOperatorBase;
 using std::endl;
@@ -43,6 +44,7 @@ int TestNewSql() {
   int flag = 1;
   while (flag) {
     Parser* my_parser = new Parser();
+    GETCURRENTTIME(start_time);
     AstNode* raw_ast = my_parser->GetRawAST();
     if (raw_ast != NULL) {
 #ifdef PRINTCONTEXT
@@ -88,7 +90,9 @@ int TestNewSql() {
       }
       ResultSet* result_set = physical_plan->GetResultSet();
       physical_plan->Close();
-
+      result_set->query_time_ = GetElapsedTime(start_time) / 1000;
+      cout << "[execute time: ] " << GetElapsedTime(start_time) / 1000 << " S"
+           << endl;
       result_set->print();
 
       delete logic_plan;
